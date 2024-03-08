@@ -1,0 +1,8 @@
+//private keys and certificates
+server.crt
+server.csr
+server.key
+
+//executable files
+client
+server
